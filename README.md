@@ -3,6 +3,7 @@ Hi friend 👋,  I am Yuki like coding,nice to meet you.
 
 ## skills
 
+- [ ] Python 
 - [x] JavaScript
 - [ ] HTML&CSS
 
