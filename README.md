@@ -19,7 +19,7 @@ Hi friend 👋,  I am Yuki like coding,nice to meet you.
 
 ## content me
 <p align="left"> 
-    <a href="https://discord.gg/huM4KG7KnS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/discord.png"/> </a>
+    <a href="https://discord.gg/QSJRxjGBWU" target="_blank"> <img src="https://img.icons8.com/color/48/000000/discord.png"/> </a>
     
 </p>
 
