@@ -14,7 +14,7 @@ Hi friend 👋,  I am Yuki like coding,nice to meet you.
 
 ## what can I develop
 - [ ] Apps
-- [ ] Websites
+- [x] Websites
 - [x] Discord Bots
 
 ## content me
