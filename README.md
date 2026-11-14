@@ -20,15 +20,11 @@ Hi friend 👋,  I am Yuki,nice to meet you.
 
 ## content me
 <p align="left"> 
-    <a href="https://discord.gg/7mJvkYJCCY" target="_blank"> <img src="https://img.icons8.com/color/48/000000/discord.png"/> </a>
+    <a href="https://discord.gg/SNVU5a84Hb" target="_blank"> <img src="https://img.icons8.com/color/48/000000/discord.png"/> </a>
 
     
 </p>
-
-## Github
-
-[![](https://metrics.lecoq.io/yuki0912)](https://github.com/yuki0912)
     
 ## 🎶 Spotify History
-  <a href="https://open.spotify.com/user/vj2gwuvm83kf614xr6ep0bk21" target="_blank"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=vj2gwuvm83kf614xr6ep0bk21"/> </a> 
+  <a href="https://open.spotify.com/user/vj2gwuvm83kf614xr6ep0bk21" target="_blank"> <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=vj2gwuvm83kf614xr6ep0bk21&count=6&duration=1"/> </a> 
 </p>
